@@ -1,0 +1,8 @@
+{
+  "name": "novatech-ultimate",
+  "version": "1.0.0",
+  "private": true,
+  "description": "NovaTech — site futuriste avec formulaire de contact et tableau de bord admin",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
